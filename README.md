@@ -1,2 +1,2 @@
 # Wordle_Clone
-Wordle game clone for java beginners 
+Wordle game clone backend command line interaction for java beginners 
