@@ -27,7 +27,7 @@ public class Wordle {
     //PreviousList makes use of the words  from the file dic.txt
 
     public void previousList() throws Exception {
-        File file = new File("C:\\Users\\Senyo\\Downloads\\dic.txt");
+        File file = new File("dic.txt");
         Scanner in = new Scanner(file);
 
 
